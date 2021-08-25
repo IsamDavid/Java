@@ -8,6 +8,6 @@ Este es un repositorio para subir códigos de las clases de los cursos de Java S
 	}
 ```
 
-### Cursos
-
-* [Introducción a Java SE](https://platzi.com/clases/java-basico/)
+### Cursos | ### Notas | ### Diploma
+------------- | ------------- | -------------
+[Introducción a Java SE](https://platzi.com/clases/java-basico/) | Apuntes [aquí](https://mire-respect-869.notion.site/Introducci-n-a-Java-SE-80a3668a29bc4e9593db0d46088991ec)
